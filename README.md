@@ -6,7 +6,38 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:is the disciplined application of engineering principles to software development.
+
+Here's an analogy:
+
+Software Engineering: Building a house - requires planning, design, construction (coding), inspection, and upkeep.
+Programming: Bricklaying - a crucial part of construction, but doesn't encompass the entire building process.
+Software Development Life Cycle (SDLC)
+The SDLC is a framework that defines the phases involved in software development. Common phases include:
+
+Planning and Requirements Gathering: Defining project goals, user needs, and functionalities.
+System Design: Creating a blueprint for the software architecture and components.
+Development: Writing code, implementing functionalities, and building the software.
+Testing: Identifying and fixing bugs to ensure software quality.
+Deployment: Releasing the software to users.
+Maintenance: Fixing issues, adding new features, and keeping the software up-to-date.
+Agile vs. Waterfall Models
+Waterfall is a traditional, sequential approach where each phase is completed before moving to the next. It offers a structured plan but might be inflexible for changing requirements.
+
+Agile is an iterative and incremental approach where development happens in short cycles (sprints) with continuous feedback and adaptation. It's better suited for dynamic projects or those with evolving requirements.
+
+Here's a table summarizing the key differences:
+
+Feature	Waterfall Model	Agile Model
+Development Style	Sequential, linear	Iterative, incremental
+Flexibility	Low	High
+Adaptability	Difficult to adapt to changes	Easier to adapt to changes
+User involvement	Less involved in early stages	More involved throughout
+Project visibility	Clear upfront plan	Evolves over time
+
+drive_spreadsheet
+Export to Sheets
+Use
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
